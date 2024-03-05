@@ -1,0 +1,97 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background-image: url(/assets/img/bg-header.jpg);
+    height: 730px;
+    padding: 0;
+}
+h1{
+    color: #FFFFFF;
+    background-color: #000000;
+    margin: 0;
+    padding: .5em;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+img{
+    margin: 0;
+    padding: 0;
+}
+#content-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    padding: 5em;
+}
+#img-iguana1{
+    height: 240px;
+    width: 400px;
+
+}
+p{
+    margin: 2em 5em 1em 1em;
+    
+}
+#p-section1{
+    height: 240px;
+    width:600px;
+    color: #FFFFFF;
+}
+
+h2{
+    margin: 1em 0 2em 0;
+    font-weight: 500;
+    font-size: 2em;
+
+}
+.carac-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#content-2{
+    background-color: #1E1A13;
+    margin: 0;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 3em 0 3em 0;
+    height: 250px;
+}
+div.car-icon{
+    height: 100px;
+    width: 250px;
+}
+p.p-icon{
+    padding: 0 0 2em 0;
+    margin: 3em;
+}
+
+img.img-iguanas{
+    height: 200px;
+    width: 300px;
+}
+#content-3{
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5em 0 5em 0;
+}
+footer{
+    background-color: #1E1A13;
+    padding: 1.5em;
+    color: #FFFFFF;
+    font-weight: 300;
+}
+#p-footer{
+    text-align: center;
+}
